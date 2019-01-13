@@ -6,7 +6,7 @@ venue: "IEEE NCVPRIPG 2018"
 date: 2017-12-10
 citation: 'Abhijeet Kumar, <b>Anjali Anil Shenoy</b>, Avinash Sharma'
 ---
-[[Paper]](https://anjalishenoy.github.io/files/ImageAnnotation.pdf)
+[[Paper]](https://anjalishenoy.github.io/files/Image_Annotation_Paper.pdf)
 
 
 ## Abstract
